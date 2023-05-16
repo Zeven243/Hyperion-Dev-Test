@@ -39,3 +39,7 @@ Please ensure that you have Python installed on your system before running the a
 If you encounter any issues or have any questions, please feel free to reach out.
 
 Thank you for your consideration!
+
+## Loom Video Introduction link.
+
+https://www.loom.com/share/563dc8a27a1b4bab80bcaa7382eade0c
